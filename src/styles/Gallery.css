@@ -1,0 +1,17 @@
+.gallery{
+    display: block;
+    min-height: 1px;
+    width: 100%;
+    border: 1px solid #ddd;
+    overflow: auto;
+}
+.gallery-thumbnail{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-height: 240px;
+    background-color: rgba(0,0,0,0.8);
+    color: #ffffff;
+    padding: 20px;
+    font-size: 90%;
+}

@@ -1,0 +1,38 @@
+.App-header{
+    height: 50px;
+    background-color: #282c34;
+    color: #ffffff;
+}
+
+.App-logo{
+    height: 50px;
+    float: left;
+}
+
+.App-title{
+    float: left;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 17px;
+    color: #61dafb;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+.logout {
+    float: right;
+    padding-top: 13px;
+    padding-right: 13px;
+}
