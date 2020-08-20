@@ -1,6 +1,6 @@
 export const TOKEN_KEY = 'TOKEN_KEY';
 // export const API_ROOT = "https://pelagic-cycle-dot-pelagic-cycle-280917.ue.r.appspot.com/api/v1";
-export const API_ROOT = "https://around-179500.uc.r.appspot.com"
+export const API_ROOT = "your_API_ROOT"
 export const GEO_OPTIONS = {
     enableHighAccuracy: true,
     maximumAge        : 300000,
